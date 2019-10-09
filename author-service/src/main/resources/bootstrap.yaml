@@ -11,5 +11,5 @@ spring:
     config:
       discovery:
         enabled: true
-        service-id: config-server
+        service-id: configuration-server
       failFast: true
